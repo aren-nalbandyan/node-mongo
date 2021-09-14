@@ -1,0 +1,11 @@
+{
+  "main": "transaction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "transaction.js",
+    "user": "usersCollection.js"
+  },
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
+}
